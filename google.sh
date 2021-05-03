@@ -66,11 +66,11 @@ dirtravarray=($dtparent $dtdcim $dtftp $dtbackup $dtmail $dtpassword $dtpub)
 # Header
 echo -e "\n\e[00;33m#########################################################\e[00m"
 echo -e "\e[00;33m#                                                       #\e[00m" 
-echo -e "\e[00;33m#\e[00m" "\e[01;32m               GOOGLE-DROK                \e[00m" "\e[00;33m#\e[00m"
+echo -e "\e[00;33m#\e[00m" "\e[01;32m               GOOGLE-DORKS            \e[00m" "\e[00;33m#\e[00m"
 echo -e "\e[00;33m#                                                       #\e[00m" 
 echo -e "\e[00;33m#########################################################\e[00m"
 echo -e ""
-echo -e "\e[00;33m# By / | Pyae Sone Hmooe[00m"
+echo -e "\e[00;33m# By / | Pyae Sone Hmooe [00m"
 echo -e "\e[00;33m# Version:                 \e[00m" "\e[01;31m$version\e[00m"
 
 # Check domain
