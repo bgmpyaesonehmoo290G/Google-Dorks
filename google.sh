@@ -83,7 +83,7 @@ echo -e "\e[00;33m# Version:                 \e[00m" "\e[01;31m$version\e[00m"
 			echo -e "\e[00;33m# Delay between queries:   \e[00m" "\e[01;31m$sleeptime\e[00m" "\e[00;33msec\e[00m\n"
 	fi
 
-### Function to get information about site ### START
+###  Zero to get information about site ### START
 function Query {
 		result="";
 		for start in `seq 0 10 40`; ##### Last number - quantity of possible answers
