@@ -1,8 +1,6 @@
 #!/bin/bash
 
 
-# Variables
-## General
 version="1.0"								## Version Year.Day
 updatedate="may 3 2021"					## The date of the last update
 example_domain="megacorp.one" 				## Example domain
